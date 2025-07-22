@@ -47,6 +47,8 @@
 <!-- Snake -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/abhisheksharma12891/abhisheksharma12891/output/github-snake.svg" alt="Snake animation" />
+
+  
 </p>
 
 ---

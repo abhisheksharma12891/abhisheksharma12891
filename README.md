@@ -60,15 +60,6 @@
 
 ---
 
-### 🌐 Visitor Counter
-
-<p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=abhisheksharma12891&label=Profile%20Views&color=12&icon=5&pretty=true" alt="Visitor Counter">
-  </a>
-</p>
-
----
 
 ### 🐍 Snake Contribution Animation
 
